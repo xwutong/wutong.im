@@ -1,5 +1,5 @@
 baseURL = "https://wutong.im/"
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "Wu Tong"
 theme = "book"
 
@@ -23,12 +23,12 @@ enableGitInfo = true
 [languages.en]
   languageName = 'English'
   contentDir = 'content'
-  weight = 1
+  weight = 2
 
 [languages.cn]
   languageName = 'Chinese'
   contentDir = 'content.cn'
-  weight = 2
+  weight = 1
 
 [params]
   # (Optional, default true) Controls table of contents visibility on right side of pages.
