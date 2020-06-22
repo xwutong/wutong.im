@@ -8,7 +8,7 @@ weight: 1
 # bookComments: true
 ---
 
-I write important bits about git.
+I write important bits about git. what is this
 
 ## Create
 ### From a Remote repo
@@ -22,3 +22,4 @@ then
 cd localDir
 git remote -v
 ```
+这是什么？完全忘记了。
